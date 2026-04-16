@@ -1,0 +1,22 @@
+IPERPARAMETRI MIGLIORI
+MODELLO: LogisticRegression
+Accuracy: 0.9700000000000001
+{'C': 1, 'class_weight': 'balanced', 'penalty': 'l1', 'solver': 'saga'}
+
+MODELLO: KNeighbors
+Accuracy: 0.9800000000000001
+{'algorithm': 'auto', 'n_neighbors': 1, 'weights': 'uniform'}
+
+MODELLO: SVC
+Accuracy: 0.96
+{'C': 100.0, 'class_weight': 'balanced', 'gamma': 0.001}
+
+MODELLO: DecisionTree
+Accuracy: 0.9800000000000001
+{'class_weight': 'balanced', 'criterion': 'log_loss', 'max_features': 'sqrt'}
+
+MODELLO: Multilayer Perceptron classifier
+Accuracy: 0.99
+{'activation': 'relu', 'solver': 'adam'}
+
+
